@@ -1,1 +1,2 @@
 file moi duoc chinh sua o squash
+lai tiep tuc chinh sua file moi 
